@@ -1,4 +1,4 @@
-# Python for Data Science
+# <font color = "blue"> Python for Data Science </font>
 
 São apresentados projetos do nível zero ao intermediário em Python. O material está dividido em 3 partes:
 
