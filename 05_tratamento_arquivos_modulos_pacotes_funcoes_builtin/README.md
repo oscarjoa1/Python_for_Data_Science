@@ -7,4 +7,4 @@ Trago para você diversos   assuntos importantes  para  o  dia  a  dia  em  aná
 - Filtros,  indexação.  
 - Tratamentos  de  erros  e exceções. 
 
-## muito obrigado por estar aqui comigo!
+## Muito obrigado por estar aqui comigo!
